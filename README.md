@@ -15,8 +15,7 @@ Elle utilise **Google Gemini** pour répondre comme une IA et embarque plusieurs
 
 1. **Cloner ce repo :**
 ```bash
-git clone https://github.com/tonpseudo/mimikyu-messenger.git
-cd mimikyu-messenger
+git clone https://github.com/Michael156089/PokePal
 ```
 
 2. **(Optionnel) Créer un environnement virtuel :**
