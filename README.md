@@ -1,6 +1,6 @@
 # Pokepal
 
-Mimikyu Messenger est une petite appli de chat sympa écrite en **Python** avec une interface moderne grâce à `customtkinter`.  
+PokePal est une petite appli de chat sympa écrite en **Python** avec une interface moderne grâce à `customtkinter`.  
 Elle utilise **Google Gemini** pour répondre comme une IA et embarque plusieurs outils pratiques :
 
 - 💬 Discuter avec l'IA en temps réel  
