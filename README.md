@@ -41,15 +41,10 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Lancement rapide
-
-```bash
-python main.py
-```
 
 ---
 
-## 🛠️ Techno utilisées
+## 🛠️ bibliotheques utilisées
 
 - Python 3.9+
 - customtkinter pour l’UI
